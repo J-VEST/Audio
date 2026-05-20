@@ -30,7 +30,7 @@ Simple file drop for mixes, masters, & remixes.
 
 ---
 
-Physical drives: Mail to me SSDs or thumb drives with the same folder formatting as above for your full albums/EPs.
+Physical drives: Mail to me SSDs or thumb drives with the same folder formatting as above.
 
 ---
 
@@ -38,7 +38,7 @@ Mail to: PO Box 1234 City, USA 24680
 
 ---
 
-**P.S.** Please bounce all MIDI tracks to audio, as I may not have the same plugins or VSTs. <br><br> Logic Pro MIDI tracks can sometimes be used, and I can always reassign them to new instruments. You’re also welcome to upload your full Logic Pro session files (.logicx) instead of the .WAV stems for maximum flexibility. 
+**P.S.** Please bounce all MIDI tracks to audio, as I may not have the same plugins or VSTs. <br><br> Logic Pro MIDI tracks can sometimes be used, and I can always reassign the MIDI to new instruments. It's also suggested to upload your full Logic Pro session files (.logicx) instead of the .WAV stems for maximum flexibility. 
 
 ---
 
