@@ -30,7 +30,7 @@ Simple file drop for mixes, masters, & remixes.
 
 ---
 
-Physical drives: Mail to me SSDs or thumb drives with the same folder formatting as above for full albums/EPs.
+Physical drives: Mail to me SSDs or thumb drives with the same folder formatting as above for your full albums/EPs.
 
 ---
 
