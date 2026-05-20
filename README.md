@@ -2,7 +2,7 @@
 
 
 
-Simple file drop for mixes, masters, or remixes.
+Simple file drop for mixes, masters, & remixes.
 ---
 
 ### Workflow:
