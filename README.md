@@ -38,7 +38,7 @@ Mail to: PO Box 1234 City, USA 24680
 
 ---
 
-**P.S.** Please bounce all MIDI tracks to audio, as I may not have the same plugins or VSTs. <br><br> Logic Pro MIDI tracks can sometimes be used, and I can always reassign the MIDI to new instruments. It's also suggested to upload your full Logic Pro session files (.logicx) instead of the .WAV stems for maximum flexibility. 
+**P.S.** Please bounce all MIDI tracks to audio, as I may not have the same plugins or VSTs. <br><br> Logic Pro MIDI tracks can sometimes be used, as I can always reassign the MIDI to new instruments. It's also suggested to upload your full Logic Pro session files (.logicx) instead of the .WAV stems for maximum flexibility. 
 
 ---
 
